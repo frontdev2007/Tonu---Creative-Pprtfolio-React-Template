@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Futura Cyrillic';
+    src: url('./fonts/FuturaCyrillic-Bold.eot');
+    src: url('./fonts/FuturaCyrillic-Bold.eot?#iefix') format('embedded-opentype'), url('./fonts/FuturaCyrillic-Bold.woff2') format('woff2'), url('./fonts/FuturaCyrillic-Bold.woff') format('woff'), url('./fonts/FuturaCyrillic-Bold.ttf') format('truetype'), url('./fonts/FuturaCyrillic-Bold.svg#FuturaCyrillic-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
